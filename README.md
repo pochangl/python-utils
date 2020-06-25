@@ -1,2 +1,2 @@
 # python-utils
-hand python script for perosonal use
+handy python script for perosonal use
